@@ -11,7 +11,7 @@ published: true
 | --------         | ------ | ------------------------------------------------------------ |
 | [Arizona State University](https://graduate.engineering.asu.edu/computer-science/)    | 2023 - 2025   | Masters Degree in Computer Science   📖                      |
 | [Digital.ai](https://digital.ai/)    | 2022 - 2023   | Grew significantly as a Software Engineer 🖥️                         |
-| [FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)     | 2021   | Briefly worked on people management software. 👮                          |
+| [FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)     | 2021  | Briefly worked on people management software. 👮                          |
 | [Standard Chartered GBS](https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/)  | 2020 | Summer Intern ☀️|
 | [OSPF, NIAS, IISc, Bangalore](https://www.ospfound.org/about.html) | 2019 | Machine Learning on Medical Datasets 💊|
 | [National Institute of Technology, Karnataka](https://cse.nitk.ac.in/) | 2017 - 2021 | Bachelors Degree in Computer Science Engineering 💻 |
@@ -20,13 +20,7 @@ published: true
 
 # Education
 * Master of Science, Computer Science, **Arizona State University**, 2023-2025 <img align="right" width="100" height="100" src="https://1000logos.net/wp-content/uploads/2021/04/ASU-logo.png">
-  * Courses:
-    * Knowledge Representation and Reasoning
-    * Data Visualization
-    * Distributed Database Systems
-    * Information Assurance and Security
-    * Multimedia and Web Databases
-    * Software Requirements and Specifications
+  * Courses: Frontiers in Generative AI, Knowledge Representation and Reasoning, Data Mining, Data Visualization, Distributed Database Systems, Multimedia and Web Databases, Engineering Blockchain Applications, Information Assurance and Security, Software Requirements and Specifications
 
 
 * Bachelors in Technology, Computer Science Engineering, **National Institute of Technology Karnataka, Surathkal**, 2017-2021 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/c/cc/NITK_Emblem.png">
