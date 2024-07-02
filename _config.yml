@@ -1,10 +1,10 @@
 ### your site title here
-title: Lorenzo Carnevale
-description: Assistant Professor at University of Messina
+title: Abhinav Prasad Yasaswi
+description: Software Engineer/Student Researcher/Data Scientist
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: lcarnevale@unime.it
+email: abhinavp@asu.edu
 
 highlighter: rouge
 markdown: kramdown
@@ -17,8 +17,8 @@ markdown: kramdown
 # Social media links in footer
 # facebook: "#"
 # twitter: "#"
-linkedin: "lorenzocarnevale"
-github: "lcarnevale"
+linkedin: "abhinavpy"
+github: "abhinavpy"
 # researchgate: "#"
 orcid: "0000-0002-1349-341X"
 google_analytics: "G-V0TBR5PTVH"
