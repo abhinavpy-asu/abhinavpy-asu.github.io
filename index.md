@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.jpg
+  image: Square_sized_Cropped_Abhinav.png
 published: true
 ---
 Welcome to my page! 
