@@ -5,10 +5,7 @@ permalink: /projects/
 published: true
 ---
 
-## Projects
-The following is a not exhaustive list of projects where I have been involved. It includes international and national fund projects, as well as personal (not fund) software projects.
-
-Academic and Personal Projects
+## Academic and Personal Projects
 ======
 * Home Made Food Delivery App: Developed a full functioning Android App that can be used as a food order-delivery system,
 as a part of project assigned by the Software Engineering Lab Course.
