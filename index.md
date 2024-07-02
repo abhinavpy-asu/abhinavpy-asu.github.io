@@ -14,8 +14,6 @@ Here, you'll discover insights into both my professional and personal interests,
 
 [Click Here](https://abhinavpy.github.io/portfolio/) for a list of projects that I have worked on!
 
---
-
 The story of my life so far!
 ======
 I was born in Chennai, and grew up in Bangalore, both bustling cities in southern India. As a little kid, I was a handful, always causing mischief. I'd find joy in surprising my busy mom, even if it meant dropping things from high places just to get her attention. My mom juggled taking care of me and my sibling along with all the household chores.
