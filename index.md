@@ -10,6 +10,7 @@ published: true
 ## Latest Updates
 * July 2024 - I'm currently exploring how KANs (Kolmogorov Arnold Networks) can be useful to classify different image datasets, in particular road traffic-related images with [Dr. Bharathesh Chakravarthi](https://chakravarthi589.github.io/) as part of the [Active Perception Group](https://faculty.engineering.asu.edu/yezhouyang/).
 * June 2024 - Working on getting [AWS DEA-C01 Certified](https://aws.amazon.com/certification/certified-data-engineer-associate/).
+* May 2024 - Started a new position as an Instructional Assistant for [CSE 548 - Advanced Computer Network Security](https://webapp4.asu.edu/bookstore/viewsyllabus/2234/43766)
 
 Welcome to my page! 
 --
