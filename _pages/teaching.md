@@ -28,8 +28,7 @@ published: true
 
 
 # Work experience
-### <img align="right" width="100" height="100" src="https://logowik.com/content/uploads/images/digitalai3501.jpg">
-**[Digital.ai Bangalore, India](https://digital.ai/)**, Software Development Engineer, Jul 2022 - Jul 2023
+### <img align="right" width="100" height="100" src="https://logowik.com/content/uploads/images/digitalai3501.jpg"> **[Digital.ai Bangalore, India](https://digital.ai/)**, Software Development Engineer, Jul 2022 - Jul 2023
   * `Technologies`: <ins> Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
   Amazon Web Services, Spring Boot, Java, Python </ins>
   * `Jenkins to Kubernetes`: Engineered and deployed <ins>Kubernetes Workloads</ins> for ’Clean Tenant’ and ’Replicate Data’
