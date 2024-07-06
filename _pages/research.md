@@ -7,7 +7,8 @@ published: true
 
 ## Research
 My research interests fall in three macro-areas of computer science and engineering:
-- generative ai
-- novel neural network architectures
-- distributed systems
+- Generative AI
+  - Diffusion Models, Transformers
+- Novel Neural Network Architectures
+- Distributed Systems
 
