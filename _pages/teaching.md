@@ -7,13 +7,14 @@ published: true
 
 # Timeline
 
-| Institution/Company            | Item   |       Brief                                                       |
-| --------         | ------ | ------------------------------------------------------------ |
+
+| Institution/Company            | Time   |       Brief                                                       |
+| --------------- | ------ | ------------------------------------------------------------ |
 | [Arizona State University](https://graduate.engineering.asu.edu/computer-science/)    | 2023 - 2025   | Masters Degree in Computer Science   📖                      |
 | [Digital.ai](https://digital.ai/)    | 2022 - 2023   | Grew significantly as a Software Engineer 🖥️                         |
 | [FlexiEle Consulting Services Gurgaon, India](https://flexiele.com/)     | 2021  | Briefly worked on people management software. 👮                          |
 | [Standard Chartered GBS](https://www.sc.com/en/global-careers/experienced-hire/spotlight-career-opportunities/careers-in-gbs-india/)  | 2020 | Summer Intern ☀️|
-| [OSPF, NIAS, IISc, Bangalore](https://www.ospfound.org/about.html) | 2019 | Machine Learning on Medical Datasets 💊|
+| [OSPF, NIAS, IISc., Bangalore](https://www.ospfound.org/about.html) | 2019 | Machine Learning on Medical Datasets 💊|
 | [National Institute of Technology, Karnataka](https://cse.nitk.ac.in/) | 2017 - 2021 | Bachelors Degree in Computer Science Engineering 💻 |
 
 
@@ -32,9 +33,8 @@ published: true
   * `Technologies`: <ins> Apache Kafka, Spark, Airflow, Kubernetes, Docker, Snowflake, Redshift, Lambda, EKS,
   Amazon Web Services, Spring Boot, Java, Python </ins>
   * `Jenkins to Kubernetes`: Engineered and deployed <ins>Kubernetes Workloads</ins> for ’Clean Tenant’ and ’Replicate Data’
-  operations across multiple servers, achieving an increase in deployment efficiency, enhancement in resource utilization, and
-  reduction in response time during peak demand. Additionally, this optimization directly contributed to a decrease in cloud
-  infrastructure costs, saving the company approximately **12,000 dollars** annually.
+  operations, achieved deployment efficiency, better resource utilization, reduction in response time during peak demand, contributed to a decrease in cloud
+  infrastructure costs of **12,000 dollars** annually.
   * `Data Pipeline Engineering and Source Integration`: Successfully engineered and deployed comprehensive data pipelines,
   integrating dynamic sources such as GitHub, Snowflake, and New Relic, to significantly amplify business functionalities.
   Utilized the Adapter Framework (an internal data pipeline tool) to <ins>enhance data extraction and loading processes (ETL)</ins>, achieving
