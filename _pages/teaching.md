@@ -86,3 +86,4 @@ Talks
   
 Teaching
 ======
+Instructional Assistant for CSE 548: Advanced Computer Networks (Summer 2024)
