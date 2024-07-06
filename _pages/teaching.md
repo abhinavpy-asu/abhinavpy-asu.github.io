@@ -38,7 +38,7 @@ published: true
   * `Data Pipeline Engineering and Source Integration`: Successfully engineered and deployed comprehensive data pipelines,
   integrating dynamic sources such as GitHub, Snowflake, and New Relic, to significantly amplify business functionalities.
   Utilized the Adapter Framework (an internal data pipeline tool) to <ins>enhance data extraction and loading processes (ETL)</ins>, achieving
-  an improvement in processing efficiency across diverse origins. This strategic initiative played a key role in increasing the
+  an improvement in processing efficiency. This strategic initiative played a key role in increasing the
   customer onboarding rate by significant percentage, leading to the addition of new key clients within a single quarter.
   * `Streamlined AWS Lambda Build and Deployment Automation`: Orchestrated the <ins> automated build and
   deployment of AWS Lambda functions </ins> Conducted a meticulous evaluation of strategies for developing and deploying Lambda
