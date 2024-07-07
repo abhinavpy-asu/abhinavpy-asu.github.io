@@ -11,4 +11,5 @@ My research interests fall in three macro-areas of computer science and engineer
   - Diffusion Models, Transformers
 - Novel Neural Network Architectures
 - Distributed Systems
+  - Blockchain 
 
