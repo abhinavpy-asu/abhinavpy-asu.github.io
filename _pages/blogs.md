@@ -11,5 +11,6 @@ More Coming Soon!
 
 | Blog Title      | Topic      | Date  | Link |
 | ------------- | ------------- | -----  | ---- |
-| Cell 1, Row 1 | Cell 2, Row 1 | 08-27-2024 | Link 1 |
-| Cell 1, Row 2 | Cell 1, Row 2 | 08-27-2024 | Link 2 |
+| Generative Adversarial Nets | Neural Network Architectures, GenAI, DL | 08-27-2024 | Link 1 |
+| Pixel Recurrent Neural Networks (PixelRNN) | AI, ML, DL | 08-27-2024 | Link 2 |
+| Variational Auto-Encoder (VAE) | AI, ML, DL, GenAI | 08-27-2024 | Link 3 |
